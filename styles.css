@@ -8,6 +8,7 @@
 }
 
 #btn:hover {
+    border: none;
     border-radius: 30px;
     background-color: yellow;
     color: black;
